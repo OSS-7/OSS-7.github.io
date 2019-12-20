@@ -5,6 +5,7 @@ Patch Note <1>
     -새로운 게임 "snake_game" 을 수정하여 배포하기로 결정, Readme 생성
     -배경 색, snake graphic, food graphic 수정
     -snake와 food의 색을 다양하게 변할 수 있도록 수정
+    -게임 내에 timeout을 제거함
  
  
  
